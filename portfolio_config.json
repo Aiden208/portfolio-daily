@@ -1,0 +1,20 @@
+{
+  "cash": 0,
+  "fx_hkd_cny": 0.86,
+  "site_url": "",
+  "serverchan_key": "SCT397289TnRA7ZfbPyAwhKKxezZOCRC7X",
+  "holdings": [
+    {"name": "006493 政金债指数", "code": "006493", "market": "fund", "shares": 168328.73, "cost": 1.0693},
+    {"name": "007562 纯债", "code": "007562", "market": "fund", "shares": 206904.60, "cost": 1.2083},
+    {"name": "004388 纯债", "code": "004388", "market": "fund", "shares": 38229.22, "cost": 1.3079},
+    {"name": "160622 一级债基", "code": "160622", "market": "fund", "shares": 129661.85, "cost": 1.1569},
+    {"name": "003547 鹏华丰禄债券", "code": "003547", "market": "fund", "shares": 1143.06, "cost": 1.0438},
+    {"name": "008163 红利低波50联接", "code": "008163", "market": "fund", "shares": 19180.97, "cost": 1.0387},
+    {"name": "014528 A50联接", "code": "014528", "market": "fund", "shares": 1729.91, "cost": 1.1561},
+    {"name": "110022 易方达消费行业", "code": "110022", "market": "fund", "shares": 2092.86, "cost": 3.1600},
+    {"name": "000216 华安黄金ETF联接A", "code": "000216", "market": "fund", "shares": 2863.61, "cost": 3.2319},
+    {"name": "159938 医药ETF", "code": "159938", "market": "cn", "shares": 156900, "cost": 0.689},
+    {"name": "162412 医疗ETF联接", "code": "162412", "market": "fund", "shares": 103868.74, "cost": 0.6836},
+    {"name": "腾讯控股", "code": "00700", "market": "hk", "shares": 100, "cost": 404.3548, "cost_hkd": 470.18}
+  ]
+}
