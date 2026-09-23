@@ -1,20 +1,934 @@
 {
   "cash": 0,
-  "fx_hkd_cny": 0.86,
-  "site_url": "",
+  "fx_hkd_cny": 0.8573,
   "serverchan_key": "SCT397289TnRA7ZfbPyAwhKKxezZOCRC7X",
+  "site_url": "https://bd6cd92344e248ecb3f964653ae37843.app.workbuddy.link",
   "holdings": [
-    {"name": "006493 政金债指数", "code": "006493", "market": "fund", "shares": 168328.73, "cost": 1.0693},
-    {"name": "007562 纯债", "code": "007562", "market": "fund", "shares": 206904.60, "cost": 1.2083},
-    {"name": "004388 纯债", "code": "004388", "market": "fund", "shares": 38229.22, "cost": 1.3079},
-    {"name": "160622 一级债基", "code": "160622", "market": "fund", "shares": 129661.85, "cost": 1.1569},
-    {"name": "003547 鹏华丰禄债券", "code": "003547", "market": "fund", "shares": 1143.06, "cost": 1.0438},
-    {"name": "008163 红利低波50联接", "code": "008163", "market": "fund", "shares": 19180.97, "cost": 1.0387},
-    {"name": "014528 A50联接", "code": "014528", "market": "fund", "shares": 1729.91, "cost": 1.1561},
-    {"name": "110022 易方达消费行业", "code": "110022", "market": "fund", "shares": 2092.86, "cost": 3.1600},
-    {"name": "000216 华安黄金ETF联接A", "code": "000216", "market": "fund", "shares": 2863.61, "cost": 3.2319},
-    {"name": "159938 医药ETF", "code": "159938", "market": "cn", "shares": 156900, "cost": 0.689},
-    {"name": "162412 医疗ETF联接", "code": "162412", "market": "fund", "shares": 103868.74, "cost": 0.6836},
-    {"name": "腾讯控股", "code": "00700", "market": "hk", "shares": 100, "cost": 404.3548, "cost_hkd": 470.18}
-  ]
+    {
+      "name": "腾讯控股",
+      "code": "00700",
+      "market": "hk",
+      "shares": 100,
+      "cost": 405.3486,
+      "group": "all"
+    },
+    {
+      "name": "美团-W",
+      "code": "03690",
+      "market": "hk",
+      "shares": 300,
+      "cost": 68.5154,
+      "group": "all"
+    },
+    {
+      "name": "159938 医药ETF",
+      "code": "159938",
+      "market": "cn",
+      "shares": 156900,
+      "cost": 0.689,
+      "group": "all"
+    },
+    {
+      "name": "南方中债3-5年农发行债券指数A",
+      "code": "006493",
+      "market": "fund",
+      "shares": 169113.26,
+      "cost": 1.0693,
+      "group": "all"
+    },
+    {
+      "name": "景顺长城景泰纯利债券型证券投资基金A",
+      "code": "007562",
+      "market": "fund",
+      "shares": 218668.63,
+      "cost": 1.2084,
+      "group": "all"
+    },
+    {
+      "name": "鹏华丰享债券",
+      "code": "004388",
+      "market": "fund",
+      "shares": 38229.22,
+      "cost": 1.3079,
+      "group": "all"
+    },
+    {
+      "name": "鹏华丰利债券型证券投资基金（LOF）",
+      "code": "160622",
+      "market": "fund",
+      "shares": 129661.85,
+      "cost": 1.1569,
+      "group": "all"
+    },
+    {
+      "name": "鹏华丰禄债券",
+      "code": "003547",
+      "market": "fund",
+      "shares": 3244.74,
+      "cost": 1.0438,
+      "group": "all"
+    },
+    {
+      "name": "南方标普红利低波50ETF联接A",
+      "code": "008163",
+      "market": "fund",
+      "shares": 42834.88,
+      "cost": 1.0383,
+      "group": "all"
+    },
+    {
+      "name": "汇添富MSCI中国A50互联互通ETF联接A",
+      "code": "014528",
+      "market": "fund",
+      "shares": 1729.91,
+      "cost": 1.1561,
+      "group": "all"
+    },
+    {
+      "name": "易方达消费行业股票型证券投资基金",
+      "code": "110022",
+      "market": "fund",
+      "shares": 5498.19,
+      "cost": 3.0221,
+      "group": "all"
+    },
+    {
+      "name": "华安黄金ETF联接A",
+      "code": "000216",
+      "market": "fund",
+      "shares": 3866.68,
+      "cost": 3.2349,
+      "group": "all"
+    },
+    {
+      "name": "华宝中证医疗交易型开放式指数证券投资基金联接基金",
+      "code": "162412",
+      "market": "fund",
+      "shares": 129824.12,
+      "cost": 0.6686,
+      "group": "all"
+    },
+    {
+      "name": "南方纳斯达克100指数发起（QDII）A",
+      "code": "016452",
+      "market": "fund",
+      "shares": 1087.05,
+      "cost": 2.2876,
+      "group": "all"
+    },
+    {
+      "name": "华夏沪深300交易型开放式指数证券投资基金联接基金",
+      "code": "000051",
+      "market": "fund",
+      "shares": 4676.06,
+      "cost": 1.7672,
+      "group": "all"
+    },
+    {
+      "name": "恒生交易型开放式指数证券投资基金联接基金",
+      "code": "000071",
+      "market": "fund",
+      "shares": 18373.79,
+      "cost": 1.5117,
+      "group": "all"
+    },
+    {
+      "name": "汇添富中证主要消费ETF联接A",
+      "code": "000248",
+      "market": "fund",
+      "shares": 2132.11,
+      "cost": 1.8322,
+      "group": "all"
+    },
+    {
+      "name": "广发全球医疗保健指数人民币（QDII）A",
+      "code": "000369",
+      "market": "fund",
+      "shares": 1782.62,
+      "cost": 2.609,
+      "group": "all"
+    },
+    {
+      "name": "建信中证500指数增强A",
+      "code": "000478",
+      "market": "fund",
+      "shares": 1032.63,
+      "cost": 3.5894,
+      "group": "all"
+    },
+    {
+      "name": "融通健康产业A/B",
+      "code": "000727",
+      "market": "fund",
+      "shares": 1550.72,
+      "cost": 2.518,
+      "group": "all"
+    },
+    {
+      "name": "广发养老指数A",
+      "code": "000968",
+      "market": "fund",
+      "shares": 18829.16,
+      "cost": 0.8341,
+      "group": "all"
+    },
+    {
+      "name": "华夏上证50交易型开放式指数证券投资基金联接基金",
+      "code": "001051",
+      "market": "fund",
+      "shares": 317.75,
+      "cost": 1.0907,
+      "group": "all"
+    },
+    {
+      "name": "华夏中证500交易型开放式指数证券投资基金联接基金",
+      "code": "001052",
+      "market": "fund",
+      "shares": 7627.35,
+      "cost": 0.964,
+      "group": "all"
+    },
+    {
+      "name": "广发医药卫生联接A",
+      "code": "001180",
+      "market": "fund",
+      "shares": 27149.07,
+      "cost": 0.8035,
+      "group": "all"
+    },
+    {
+      "name": "中银美元债（人民币）A",
+      "code": "002286",
+      "market": "fund",
+      "shares": 1711.66,
+      "cost": 1.1998,
+      "group": "all"
+    },
+    {
+      "name": "大摩健康产业混合A",
+      "code": "002708",
+      "market": "fund",
+      "shares": 6323.01,
+      "cost": 1.915,
+      "group": "all"
+    },
+    {
+      "name": "广发中债7-10年国开债指数A",
+      "code": "003376",
+      "market": "fund",
+      "shares": 3291.79,
+      "cost": 1.3808,
+      "group": "all"
+    },
+    {
+      "name": "汇添富美元债债券（QDII）人民币A",
+      "code": "004419",
+      "market": "fund",
+      "shares": 5772.31,
+      "cost": 1.0358,
+      "group": "all"
+    },
+    {
+      "name": "汇添富文体娱乐混合A",
+      "code": "004424",
+      "market": "fund",
+      "shares": 1980.51,
+      "cost": 1.7684,
+      "group": "all"
+    },
+    {
+      "name": "易方达中证海外中国互联网50ETF联接基金人民币A类",
+      "code": "006327",
+      "market": "fund",
+      "shares": 10418.99,
+      "cost": 0.8618,
+      "group": "all"
+    },
+    {
+      "name": "广发中债1-3年国开债指数A",
+      "code": "006484",
+      "market": "fund",
+      "shares": 3955.79,
+      "cost": 1.0551,
+      "group": "all"
+    },
+    {
+      "name": "易方达中债1-3年国开行债券指数证券投资基金A类",
+      "code": "007169",
+      "market": "fund",
+      "shares": 16284.8,
+      "cost": 1.0105,
+      "group": "all"
+    },
+    {
+      "name": "易方达中证红利交易型开放式指数证券投资基金发起式联接基金A类",
+      "code": "009051",
+      "market": "fund",
+      "shares": 6678.7,
+      "cost": 1.3221,
+      "group": "all"
+    },
+    {
+      "name": "富国消费主题混合C",
+      "code": "011309",
+      "market": "fund",
+      "shares": 5401.55,
+      "cost": 1.78,
+      "group": "all"
+    },
+    {
+      "name": "华宝医疗ETF联接C",
+      "code": "012323",
+      "market": "fund",
+      "shares": 23197.46,
+      "cost": 0.5865,
+      "group": "all"
+    },
+    {
+      "name": "天弘恒生科技ETF联接A",
+      "code": "012348",
+      "market": "fund",
+      "shares": 15700.33,
+      "cost": 0.6321,
+      "group": "all"
+    },
+    {
+      "name": "富国全球债券（QDII）人民币C",
+      "code": "019518",
+      "market": "fund",
+      "shares": 3290.9,
+      "cost": 1.2514,
+      "group": "all"
+    },
+    {
+      "name": "华泰柏瑞纳斯达克100ETF发起式联接（QDII）A",
+      "code": "019524",
+      "market": "fund",
+      "shares": 1865.35,
+      "cost": 1.6477,
+      "group": "all"
+    },
+    {
+      "name": "易方达中证红利低波动交易型开放式指数证券投资基金发起式联接基金A类",
+      "code": "020602",
+      "market": "fund",
+      "shares": 11852.07,
+      "cost": 1.0923,
+      "group": "all"
+    },
+    {
+      "name": "博时中证红利低波动100交易型开放式指数证券投资基金联接基金",
+      "code": "021550",
+      "market": "fund",
+      "shares": 15152.03,
+      "cost": 1.0957,
+      "group": "all"
+    },
+    {
+      "name": "广发中证A500ETF联接A",
+      "code": "022424",
+      "market": "fund",
+      "shares": 3436.15,
+      "cost": 1.2125,
+      "group": "all"
+    },
+    {
+      "name": "博时标普500交易型开放式指数证券投资基金联接基金",
+      "code": "050025",
+      "market": "fund",
+      "shares": 353.47,
+      "cost": 5.6,
+      "group": "all"
+    },
+    {
+      "name": "富国中证红利指数增强A/B",
+      "code": "100032",
+      "market": "fund",
+      "shares": 13022.9,
+      "cost": 0.995,
+      "group": "all"
+    },
+    {
+      "name": "富国全球债券（QDII）人民币A",
+      "code": "100050",
+      "market": "fund",
+      "shares": 15929.26,
+      "cost": 1.2611,
+      "group": "all"
+    },
+    {
+      "name": "易方达沪深300交易型开放式指数发起式证券投资基金联接基金A类",
+      "code": "110020",
+      "market": "fund",
+      "shares": 1094.88,
+      "cost": 1.8936,
+      "group": "all"
+    },
+    {
+      "name": "易方达安心回报债券型证券投资基金A类",
+      "code": "110027",
+      "market": "fund",
+      "shares": 1141.46,
+      "cost": 2.2971,
+      "group": "all"
+    },
+    {
+      "name": "富国中证500指数增强型基金",
+      "code": "161017",
+      "market": "fund",
+      "shares": 926.35,
+      "cost": 2.588,
+      "group": "all"
+    },
+    {
+      "name": "交银施罗德中证海外中国互联网指数型证券投资基金（LOF）",
+      "code": "164906",
+      "market": "fund",
+      "shares": 17340.37,
+      "cost": 0.934,
+      "group": "all"
+    },
+    {
+      "name": "富国消费主题混合型证券投资基金",
+      "code": "519915",
+      "market": "fund",
+      "shares": 4908.25,
+      "cost": 1.841,
+      "group": "all"
+    },
+    {
+      "name": "平安财富宝货币市场基金D",
+      "code": "024890",
+      "market": "money",
+      "shares": 1992.77,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "南方天天利货币B",
+      "code": "003474",
+      "market": "money",
+      "shares": 10000.34,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "天弘余额宝货币",
+      "code": "000198",
+      "market": "money",
+      "shares": 17.42,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "华夏财富宝货币市场基金",
+      "code": "000343",
+      "market": "money",
+      "shares": 2189.74,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "中信保诚薪金宝货币市场基金A",
+      "code": "000599",
+      "market": "money",
+      "shares": 1993.3,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "富国富钱包货币A",
+      "code": "000638",
+      "market": "money",
+      "shares": 2150.52,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "平安交易型货币市场基金A",
+      "code": "003034",
+      "market": "money",
+      "shares": 10064.05,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "前海开源聚财宝B",
+      "code": "004369",
+      "market": "money",
+      "shares": 13747.1,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "创金合信货币C",
+      "code": "007866",
+      "market": "money",
+      "shares": 0.17,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "大成标普500等权重指数(QDII)C人民币",
+      "code": "008401",
+      "market": "fund",
+      "shares": 221.08,
+      "cost": 2.835,
+      "group": "all"
+    },
+    {
+      "name": "长城收益宝货币市场基金C",
+      "code": "016778",
+      "market": "money",
+      "shares": 10000.44,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "兴全货币E",
+      "code": "017269",
+      "market": "money",
+      "shares": 4707.18,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "摩根标普500人民币A",
+      "code": "017641",
+      "market": "fund",
+      "shares": 409.9,
+      "cost": 1.708,
+      "group": "all"
+    },
+    {
+      "name": "摩根标普500人民币C",
+      "code": "019305",
+      "market": "fund",
+      "shares": 413.87,
+      "cost": 1.6919,
+      "group": "all"
+    },
+    {
+      "name": "广发纳指100ETF联接（QDII）人民币F",
+      "code": "021778",
+      "market": "fund",
+      "shares": 1207.29,
+      "cost": 8.1271,
+      "group": "all"
+    },
+    {
+      "name": "华宝添益D",
+      "code": "021809",
+      "market": "money",
+      "shares": 4766.09,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "华安现金富利货币A",
+      "code": "040003",
+      "market": "money",
+      "shares": 20.0,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "大成标普500等权重指数(QDII)A人民币",
+      "code": "096001",
+      "market": "fund",
+      "shares": 219.86,
+      "cost": 2.851,
+      "group": "all"
+    },
+    {
+      "name": "长信利息收益货币A",
+      "code": "519999",
+      "market": "money",
+      "shares": 90.88,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "万家纳斯达克100指数发起式（QDII）A",
+      "code": "019441",
+      "market": "fund",
+      "shares": 1697.21,
+      "cost": 1.6766,
+      "group": "all"
+    },
+    {
+      "name": "广发钱袋子A",
+      "code": "000509",
+      "market": "money",
+      "shares": 198.5,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "宏利货币市场基金B",
+      "code": "000700",
+      "market": "money",
+      "shares": 3462.32,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "国泰货币B类",
+      "code": "005253",
+      "market": "money",
+      "shares": 10000.29,
+      "cost": 1.0,
+      "group": "all"
+    },
+    {
+      "name": "西部利得天添富货币B",
+      "code": "675062",
+      "market": "money",
+      "shares": 10000.34,
+      "cost": 1.0,
+      "group": "all"
+    }
+  ],
+  "plans": [
+    {
+      "name": "华安黄金ETF联接A定投",
+      "code": "000216",
+      "cycle": "每周四",
+      "amount": 255,
+      "status": "paused"
+    },
+    {
+      "name": "鹏华丰禄债券定投",
+      "code": "003547",
+      "cycle": "每个交易日",
+      "amount": 100
+    },
+    {
+      "name": "纳指长期(且慢)",
+      "code": "qieman_nasdaq_long",
+      "cycle": "每个交易日",
+      "amount": 200
+    },
+    {
+      "name": "摩根标普500A定投",
+      "code": "017641",
+      "cycle": "每个交易日",
+      "amount": 10
+    },
+    {
+      "name": "摩根标普500C定投",
+      "code": "019305",
+      "cycle": "每个交易日",
+      "amount": 10
+    },
+    {
+      "name": "大成标普500A定投",
+      "code": "096001",
+      "cycle": "每个交易日",
+      "amount": 100
+    },
+    {
+      "name": "大成标普500C定投",
+      "code": "008401",
+      "cycle": "每个交易日",
+      "amount": 100
+    },
+    {
+      "name": "广发纳指100ETF联接F定投",
+      "code": "021778",
+      "cycle": "每个交易日",
+      "amount": 30,
+      "note": "[9/11 起限额 30/日] "
+    },
+    {
+      "name": "广发纳指100ETF联接(QDII)C定投",
+      "code": "006479",
+      "cycle": "每个交易日",
+      "amount": 2,
+      "note": "[9/11 起限额 2/日] 限购上限，实际可能低于"
+    },
+    {
+      "name": "广发纳指100ETF联接(QDII)A定投",
+      "code": "270042",
+      "cycle": "每个交易日",
+      "amount": 2,
+      "note": "[9/11 起限额 2/日] 限购上限，实际可能低于"
+    },
+    {
+      "name": "万家纳斯达克100指数发起式(QDII)A定投",
+      "code": "019441",
+      "cycle": "每个交易日",
+      "amount": 90,
+      "note": "[9/10 起新设定投] 此前为独立加仓"
+    }
+  ],
+  "combos": [
+    {
+      "id": "qieman_nasdaq_long",
+      "name": "纳指长期",
+      "group": "all",
+      "cost": 5767.84,
+      "value": 5654.81,
+      "daily_invest": 200,
+      "components": [
+        {
+          "code": "000834",
+          "name": "大成纳斯达克100ETF联接（QDII）",
+          "shares": 34.66,
+          "cost": 6.3018
+        },
+        {
+          "code": "006479",
+          "name": "广发纳指100ETF联接（QDII）人民",
+          "shares": 12.86,
+          "cost": 8.0135
+        },
+        {
+          "code": "008971",
+          "name": "大成纳斯达克100ETF联接（QDII）",
+          "shares": 34.94,
+          "cost": 6.243
+        },
+        {
+          "code": "012752",
+          "name": "建信纳斯达克100指数（QDII）C人民",
+          "shares": 193.38,
+          "cost": 3.3323
+        },
+        {
+          "code": "014978",
+          "name": "华安纳斯达克100ETF联接（QDII）",
+          "shares": 27.21,
+          "cost": 8.0217
+        },
+        {
+          "code": "016452",
+          "name": "南方纳斯达克100指数发起（QDII）A",
+          "shares": 74.6,
+          "cost": 2.2876
+        },
+        {
+          "code": "016453",
+          "name": "南方纳斯达克100指数发起（QDII）C",
+          "shares": 95.82,
+          "cost": 2.2774
+        },
+        {
+          "code": "018966",
+          "name": "汇添富纳斯达克100ETF发起式联接（Q",
+          "shares": 132.88,
+          "cost": 1.6435
+        },
+        {
+          "code": "018967",
+          "name": "汇添富纳斯达克100ETF发起式联接（Q",
+          "shares": 134.58,
+          "cost": 1.6237
+        },
+        {
+          "code": "019172",
+          "name": "摩根纳斯达克100人民币A",
+          "shares": 124.54,
+          "cost": 1.7511
+        },
+        {
+          "code": "019173",
+          "name": "摩根纳斯达克100人民币C",
+          "shares": 125.81,
+          "cost": 1.735
+        },
+        {
+          "code": "019441",
+          "name": "万家纳斯达克100指数发起式（QDII）",
+          "shares": 129.69,
+          "cost": 1.6813
+        },
+        {
+          "code": "019442",
+          "name": "万家纳斯达克100指数发起式（QDII）",
+          "shares": 130.56,
+          "cost": 1.6704
+        },
+        {
+          "code": "019524",
+          "name": "华泰柏瑞纳斯达克100ETF发起式联接（",
+          "shares": 132.38,
+          "cost": 1.6477
+        },
+        {
+          "code": "019525",
+          "name": "华泰柏瑞纳斯达克100ETF发起式联接（",
+          "shares": 27.55,
+          "cost": 1.6338
+        },
+        {
+          "code": "019547",
+          "name": "招商纳斯达克100ETF发起式联接（QD",
+          "shares": 138.51,
+          "cost": 1.5727
+        },
+        {
+          "code": "019548",
+          "name": "招商纳斯达克100ETF发起式联接（QD",
+          "shares": 138.58,
+          "cost": 1.5557
+        },
+        {
+          "code": "019736",
+          "name": "宝盈纳斯达克100指数发起（QDII）A",
+          "shares": 153.21,
+          "cost": 1.489
+        },
+        {
+          "code": "019737",
+          "name": "宝盈纳斯达克100指数发起（QDII）C",
+          "shares": 30.44,
+          "cost": 1.4787
+        },
+        {
+          "code": "021773",
+          "name": "汇添富纳斯达克100ETF发起式联接（Q",
+          "shares": 133.25,
+          "cost": 1.6401
+        },
+        {
+          "code": "022664",
+          "name": "华泰柏瑞纳斯达克100ETF发起式联接（",
+          "shares": 27.33,
+          "cost": 1.6455
+        },
+        {
+          "code": "023422",
+          "name": "建信纳斯达克100指数（QDII）D人民",
+          "shares": 140.03,
+          "cost": 3.3481
+        },
+        {
+          "code": "040046",
+          "name": "华安纳斯达克100ETF联接（QDII）",
+          "shares": 26.64,
+          "cost": 8.191
+        },
+        {
+          "code": "270042",
+          "name": "广发纳指100ETF联接（QDII）人民",
+          "shares": 12.6,
+          "cost": 8.1562
+        },
+        {
+          "code": "539001",
+          "name": "建信纳斯达克100指数（QDII）A人民",
+          "shares": 187.08,
+          "cost": 3.4438
+        }
+      ],
+      "last_sync": "2026-09-16"
+    }
+  ],
+  "targets": {
+    "plan_name": "稳健增强方案",
+    "plan_date": "2026-09-04",
+    "baseline_gap": 791016.92,
+    "note": "权益60%/固收33%/黄金2%/货币5%；长期预期年化7-8%，最大回撤约20%。纳指+标普目标10万，医药压到权益15.5%。QDII限购靠多只并行，勿合并。",
+    "asset_class": {
+      "权益类": 0.6,
+      "固收类": 0.33,
+      "商品类": 0.02,
+      "货币类": 0.05
+    },
+    "category": {
+      "债券": 442579,
+      "医药": 125000,
+      "港股": 110000,
+      "货币": 67057,
+      "红利": 150000,
+      "宽基": 225000,
+      "消费": 94689,
+      "纳指": 90000,
+      "黄金": 26823,
+      "标普500": 10000
+    },
+    "funds": {
+      "007562": 184000,
+      "006493": 145000,
+      "160622": 94100,
+      "004388": 0,
+      "007169": 0,
+      "100050": 17082,
+      "004419": 0,
+      "003376": 0,
+      "006484": 0,
+      "019518": 0,
+      "110027": 0,
+      "003547": 2397,
+      "002286": 0,
+      "159938": 45768,
+      "162412": 30000,
+      "001180": 15000,
+      "012323": 13554,
+      "002708": 12102,
+      "000369": 4704,
+      "000727": 3872,
+      "00700": 38407,
+      "03690": 14248,
+      "000071": 39000,
+      "164906": 0,
+      "012348": 9615,
+      "006327": 8730,
+      "008163": 60000,
+      "021550": 30000,
+      "020602": 25000,
+      "100032": 20000,
+      "009051": 15000,
+      "000968": 25000,
+      "000051": 50000,
+      "001052": 45000,
+      "022424": 40000,
+      "000478": 25000,
+      "161017": 15000,
+      "110020": 13000,
+      "014528": 10000,
+      "001051": 2000,
+      "110022": 30000,
+      "011309": 24689,
+      "519915": 20000,
+      "000248": 12000,
+      "004424": 8000,
+      "qieman_nasdaq_long": 40000,
+      "021778": 25000,
+      "019524": 15000,
+      "016452": 10000,
+      "050025": 4000,
+      "017641": 2000,
+      "019305": 2000,
+      "096001": 1000,
+      "008401": 1000,
+      "000216": 26823,
+      "021809": 13528,
+      "016778": 10062,
+      "003185": 10061,
+      "003034": 10059,
+      "009824": 10005,
+      "003474": 10000,
+      "000638": 0,
+      "004198": 0,
+      "017269": 3342,
+      "024890": 0,
+      "000343": 0,
+      "013003": 0,
+      "000599": 0,
+      "004369": 0,
+      "519999": 0,
+      "040003": 0,
+      "000198": 0,
+      "007866": 0
+    }
+  },
+  "site_url_fallback": "https://3000-bd6cd92344e248ecb3f964653ae37843.e2b.sh3.sandbox.cloudstudio.club/",
+  "eaccount_sync": {
+    "source": "基金E账户App投资者公募基金持有信息-2026-09-16.xlsx",
+    "share_date": "2026-09-16",
+    "nav_date": "2026-09-16",
+    "applied": "2026-09-16"
+  }
 }
